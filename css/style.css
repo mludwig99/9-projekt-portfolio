@@ -136,6 +136,11 @@ label[for='drop-nav'] {
 
 .about .about-img {
     border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    margin: auto;
+    
 }
 
 .about p {
